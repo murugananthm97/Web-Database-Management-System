@@ -1,2 +1,2 @@
-# Web-Register-Form
-The "Web Registration Form" is a project used to store the data efficiently from the web page to a JSON database by using AJAX.
+# JSONPower Database Management System
+## The JsonPowerDB API makes it possible to work efficiently, effectively, and faster, which helps you keep an edge over competitors.
